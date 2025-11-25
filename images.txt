@@ -1,6 +1,7 @@
 #默认x86_64
 node:18.17.0
 nginx:1.27.0
+elasticsearch:8.11.0
 redmine:latest
 vaultwarden/server:latest
 
