@@ -2,6 +2,10 @@
 node:18.17.0
 nginx:1.27.0
 elasticsearch:8.11.0
+docker.elastic.co/kibana/kibana:8.11.0
+docker.elastic.co/elasticsearch/elasticsearch:8.11.0
+containerize/elastichd:latest
+docker.elastic.co/beats/filebeat:8.11.0
 redmine:latest
 vaultwarden/server:latest
 
